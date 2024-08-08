@@ -1,4 +1,8 @@
-name: untitled
+name: Varo
 version: '${project.version}'
 main: de.jaaaaames.varo.Untitled
-api-version: '1.21'
+api-version: '1.8'
+author: 'Jaaaaames'
+description: 'A simple Varoplugin for Sporess-Event'
+commands:
+
