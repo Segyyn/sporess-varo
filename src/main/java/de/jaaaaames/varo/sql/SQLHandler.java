@@ -5,7 +5,7 @@ import java.sql.*;
 public class SQLHandler {
 
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/varo";
-    private static final String JDBC_USER = "";
+    private static final String JDBC_USER = "s";
     private static final String JDBC_PASSWORD = "";
     public static Connection connection;
 
